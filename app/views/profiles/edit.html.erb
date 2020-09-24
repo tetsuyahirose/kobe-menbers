@@ -1,0 +1,8 @@
+<h1 class="text-center ">プロフィールの編集</h1>
+
+<%= render 'form', profile: @profile %>
+
+<div class="text-center ">
+<button type="button" class="btn btn-warning"><%= link_to 'Show', @profile, :style=>"color:white;" %></button>
+<button type="button" class="btn btn-info"><%= link_to 'Back', profiles_path, :style=>"color:white;" %></button>
+</div>
