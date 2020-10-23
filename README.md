@@ -7,7 +7,11 @@
 ここではあまり詳細について触れませんが、実際に企業の人事の方々にみてもらうフロント側は下記のURLになります。<br>
 (https://kobe-profiles.web.app/)
 
-写真〜〜〜
+<img width="774" alt="スクリーンショット 2020-10-23 18 18 42" src="https://user-images.githubusercontent.com/65284797/96986692-f49c7180-155c-11eb-9b69-af1f3a39b803.png">
+<img width="1440" alt="スクリーンショット 2020-10-23 18 19 14" src="https://user-images.githubusercontent.com/65284797/96986696-f5cd9e80-155c-11eb-937b-f6909729c033.png">
+<img width="1222" alt="スクリーンショット 2020-10-23 18 21 29" src="https://user-images.githubusercontent.com/65284797/96986700-f7976200-155c-11eb-86f9-7622cc0d0812.png">
+<img width="1157" alt="スクリーンショット 2020-10-23 18 22 33" src="https://user-images.githubusercontent.com/65284797/96986717-fd8d4300-155c-11eb-90d9-fffb8be5f093.png">
+
 
 # URL
 
