@@ -6,21 +6,27 @@
 ここではあまり詳細について触れませんが、実際に企業の人事の方々にみてもらうフロント側は下記のURLになります。
 (https://kobe-profiles.web.app/)
 
+写真〜〜〜
 
-* Ruby version
+# URL
 
-* System dependencies
+http://isa-japan.conohawing.com/?page_id=849
+初めてログインされる際は、サインアップのページに移動しメールアドレスとパスワードを設定すると
+メンバーズサイトに入ることが可能です。そこから、「New  Profile」のボタンを押すと自分のプロフィールを編集することができます。
 
-* Configuration
+# 使用技術
 
-* Database creation
+Ruby 2.7.1
+Ruby on Rails 5.2.4
+PostgreSQL
+AWS (S3)
+Heroku
 
-* Database initialization
+# 機能一覧
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ユーザー登録
+ログイン機能
+ログアウト機能
+ユーザーの更新・表示機能
+プロフィール編集機能
+写真アップロード機能
