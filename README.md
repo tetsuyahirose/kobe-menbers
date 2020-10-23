@@ -13,9 +13,9 @@
 <br>
 <img width="1222" alt="スクリーンショット 2020-10-23 18 21 29" src="https://user-images.githubusercontent.com/65284797/96986700-f7976200-155c-11eb-86f9-7622cc0d0812.png">
 <br>
-<img width="1157" alt="スクリーンショット 2020-10-23 18 22 33" src="https://user-images.githubusercontent.com/65284797/96986717-fd8d4300-155c-11eb-90d9-fffb8be5f093.png">
-<br>
 <img width="1146" alt="スクリーンショット 2020-10-23 18 26 21" src="https://user-images.githubusercontent.com/65284797/96986959-50ff9100-155d-11eb-9085-4465f5b9fa6e.png">
+<br>
+<img width="1157" alt="スクリーンショット 2020-10-23 18 22 33" src="https://user-images.githubusercontent.com/65284797/96986717-fd8d4300-155c-11eb-90d9-fffb8be5f093.png">
 <br>
 
 # URL
